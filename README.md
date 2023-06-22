@@ -7,13 +7,9 @@
 5. [Notes](#notes)
 6. [Reflections](#reflections) 
 
-This was a challenging exercise that I did really well initially. The part I struggled with was including too much and more detail then the exemplar example for this assignment and making sure my written doucmentation read fluidly to explain and break down each process. Nevertheless I was super close to matching the Exemplar example.
 
 # Introduction <a name="introduction"> 
 A mock security incident report done as part of Cybersecurity documentation portfolio and [Google's Coursera Cybersecurity Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate) as part of the [Connect and Protect: Networks and Network Security course](https://www.coursera.org/learn/networks-and-network-security/home/week/1) to gain an understanding of network-level vulnerabilities and how to secure networks.
-
-
-
 
 # Scenario <a name="scenario"> 
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
@@ -72,7 +68,6 @@ A consideration worth noting was scheduling a penetration testing exercise to ev
 
 NIST article on suggestions for the properly recovering from a cyberattack
 [How to Recover from a Cyber Attack | NIST](https://www.nist.gov/blogs/manufacturing-innovation-blog/how-recover-cyber-attack#:~:text=Consider%20Cyber%20Insurance%20for%20Increased%20Recovery%20Capability%20Like,assist%20in%20identifying%20the%20extent%20of%20damage%20caused)
-
 
 # Reflections <a name="reflections"> 
 This was a challenging exercise that I did really well initially. The part I struggled with was including too much and more detail then the exemplar example for this assignment and making sure my written doucmentation read fluidly to explain and break down each process. Nevertheless, I was super close to matching the Exemplar example.
